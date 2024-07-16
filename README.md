@@ -36,4 +36,4 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=islomjoner&show_icons=true&theme=gotham" alt="islomjoner" />
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=islomjoner&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="islomjoner" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ergashev2000&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="ergashev2000" /></a> </p>
