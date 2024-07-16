@@ -34,6 +34,6 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 ![Image](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=islomjoner&show_icons=true&theme=gotham" alt="islomjoner" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ergashev2000&show_icons=true&theme=gotham" alt="ergashev2000" />
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ergashev2000&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="ergashev2000" /></a> </p>
