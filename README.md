@@ -7,9 +7,8 @@ I am Islomjon Ergashev, a Frontend React.js developer. I specialize in building 
 I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-islomjon_ergashev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/islomjon-ergashev/)](https://www.linkedin.com/in/islomjon-ergashev/)
-[![Facebook Badge](https://img.shields.io/badge/-Islomjon_Ergashev-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/islomjon.ergashev/)](https://www.facebook.com/islomjon.ergashev/)
 [![Instagram Badge](https://img.shields.io/badge/-@islomjon_ergashev_-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/islomjon_ergashev_/)](https://www.instagram.com/islomjon_ergashev_/)
-[![Telegram Badge](https://img.shields.io/badge/@islomjon_ergashev-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/islomjon_ergashev)](https://t.me/islomjon_ergashev)
+[![Telegram Badge](https://img.shields.io/badge/@islomjon_ergashev-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/islomjon5747)](https://t.me/islomjon5747)
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
