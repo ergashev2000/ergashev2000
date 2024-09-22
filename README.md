@@ -1,1 +1,3 @@
-<h1 align="center">I'm a 24-year-old software engineer specializing in JavaScript (TypeScript), React (Next.js), and Web Performance.</h1>
+<h1 align="center">Software Engineer | JavaScript (TypeScript) | React (Next.js) | Web Performance Enthusiast
+
+Passionate about building scalable and high-performance web applications with a focus on modern JavaScript frameworks, user experience, and optimization. Constantly exploring new technologies and contributing to open-source projects.</h1>
